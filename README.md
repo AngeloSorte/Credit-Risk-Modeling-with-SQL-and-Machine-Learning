@@ -1,4 +1,4 @@
-# Credit Risk Modeling with SQL and Machine Learning
+# Banking Customer Risk Simulation with SQL and ML
 
 This project simulates a real-world banking pipeline using SQL and machine learning.
 
